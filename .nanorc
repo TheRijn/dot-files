@@ -1,0 +1,7 @@
+include /usr/local/Cellar/nano/*/share/nano/*.nanorc
+set mouse
+set tabstospaces
+set autoindent
+set smooth
+set tabsize 4
+set const
